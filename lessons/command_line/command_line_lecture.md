@@ -196,7 +196,7 @@ We can get even fancier by adding a second flag
 ls -lh
 ```
 
-> What changed?
+> What changed?  
 > The file sizes are made more readable. Instead of listing the exact file size in bytes, they're listed as B, KB, etc.
 
 If instead copying we just want to change the name of a file, we can do:
