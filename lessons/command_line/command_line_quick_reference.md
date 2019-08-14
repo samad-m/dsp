@@ -439,6 +439,7 @@ drwxr-xr-x   5 paulburkard  staff   170B Sep  8 09:21 git
 Here `paulburkard` has full access (read, write, execute).  The group `staff` has read and execute access but now write, and the same is true for anyone else who might use the system.
 
 What about for this one?
+> paulburkard has read, write, and execute permissions. No other user has permission to read, write, or execute.
 ```
 drwx------   4 paulburkard  staff   136B Jun  6 10:16 Applications
 ```
