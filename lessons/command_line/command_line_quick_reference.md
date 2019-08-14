@@ -103,6 +103,7 @@ $ cd ~
 ```
 
 What does this do?
+> Changes directory to the home directory
 
 ##### `pwd`
 "Print (or Present) Working Directory", checks the directory that you're currently in and prints it out for you.  All commands run from the directory that you're in.
