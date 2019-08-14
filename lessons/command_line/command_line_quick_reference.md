@@ -361,6 +361,9 @@ $ du -d 1 ~ |  sort -n -r | head
 ```
 
 What does this do?
+> Outputs disk usage in the home directory, with a depth of 1 level.  
+> Sorts in descending (reverse) numerical order.  
+> The first 10 lines (head) are printed of the above list.
 
 **TIP:** You can use pipes to chain together almost any number of commands!
 
